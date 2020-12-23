@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Contact Below
 - ⚡ Fun fact: NO FUN, JUST CODE! X_X
 
+[<img align="left" alt="dnurhidayah_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://instagram.com/dnurhidayah_
