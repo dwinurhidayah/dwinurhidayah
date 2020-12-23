@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Contact Below
 - ⚡ Fun fact: NO FUN, JUST CODE! X_X
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwinurhidayah)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img align="left" alt="dnurhidayah_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
